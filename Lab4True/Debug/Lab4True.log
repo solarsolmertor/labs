@@ -1,0 +1,8 @@
+﻿  Lab4True.cpp
+C:\Users\eleonora\source\repos\Lab4True\Lab4True.cpp(18,11): warning C4477: "scanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "char *"
+C:\Users\eleonora\source\repos\Lab4True\Lab4True.cpp(18,11): message : рекомендуется использовать "%hhd" в строке форматирования
+C:\Users\eleonora\source\repos\Lab4True\Lab4True.cpp(20,11): warning C4477: "scanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "char *"
+C:\Users\eleonora\source\repos\Lab4True\Lab4True.cpp(20,11): message : рекомендуется использовать "%hhd" в строке форматирования
+C:\Users\eleonora\source\repos\Lab4True\Lab4True.cpp(22,11): warning C4477: "scanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "char *"
+C:\Users\eleonora\source\repos\Lab4True\Lab4True.cpp(22,11): message : рекомендуется использовать "%hhd" в строке форматирования
+  Lab4True.vcxproj -> C:\Users\eleonora\source\repos\Lab4True\Debug\Lab4True.exe
