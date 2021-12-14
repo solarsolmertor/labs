@@ -1,5 +1,0 @@
-﻿  lab10.cpp
-C:\Users\eleonora\source\repos\lab10\lab10\lab10\lab10.cpp(8,26): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\eleonora\source\repos\lab10\lab10\lab10\lab10.cpp(62,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-C:\Users\eleonora\source\repos\lab10\lab10\lab10\lab10.cpp(63,26): warning C4018: <: несоответствие типов со знаком и без знака
-  lab10.vcxproj -> C:\Users\eleonora\source\repos\lab10\lab10\Debug\lab10.exe
