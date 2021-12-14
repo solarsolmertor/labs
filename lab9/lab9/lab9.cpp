@@ -11,9 +11,9 @@ int main() {
         for (j = 0; j <= i; j++)
             mas[j][i - j] = k++;
 
-    /*for (i = 1; i < N; i++)
+    for (i = 1; i < N; i++)
         for (j = i; j < N; j++)
-            mas[j][N - j + i - 1] = k++;*/
+            mas[j][N - j + i - 1] = k++;
 
     for (i = 0; i < N; i++) {
         for (j = 0; j < N; j++) {
