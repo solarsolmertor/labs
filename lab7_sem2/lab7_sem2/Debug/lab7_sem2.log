@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\eleonora\source\repos\2 семестр\lab7_sem2\lab7_sem2\Source.cpp(42,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\eleonora\source\repos\2 семестр\lab7_sem2\lab7_sem2\Source.cpp(50,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\eleonora\source\repos\2 семестр\lab7_sem2\lab7_sem2\Source.cpp(51,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  lab7_sem2.vcxproj -> C:\Users\eleonora\source\repos\2 семестр\lab7_sem2\Debug\lab7_sem2.exe

@@ -1,0 +1,5 @@
+﻿  lab4_sem2.cpp
+C:\Users\eleonora\source\repos\2 семестр\lab4_sem2\lab4_sem2\lab4_sem2.cpp(4,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Source.cpp
+  Создание кода...
+  lab4_sem2.vcxproj -> C:\Users\eleonora\source\repos\2 семестр\lab4_sem2\Debug\lab4_sem2.exe
